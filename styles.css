@@ -1,5 +1,9 @@
 body{
-    color:darkblue
+    color:rgb(194, 194, 255)
 }
 
+h1 {
+  text-shadow: 2px 2px #bdd9d7;
+}
 
+body {background-color: rgb(250, 226, 216);}
